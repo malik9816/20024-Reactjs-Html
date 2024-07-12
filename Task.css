@@ -1,0 +1,46 @@
+
+img.a{
+    vertical-align:text-top;
+    width: 100px;
+    height: 100px;
+}
+#BK{
+    text-align: center;
+    background-color: lightcyan;
+    height: 100px;
+    width: 150px;
+    margin: 2px;
+    padding: 2px;
+    border: double black;
+}
+
+#CA{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    padding: 2px;
+    border: double black;
+}
+
+.center-submit{
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.para{
+    text-align: justify;
+}
+
+#FT{
+    text-align: right;
+}
+#photo{
+    align-items: center;
+    float: left;
+}
+footer{
+    text-align: center;
+}

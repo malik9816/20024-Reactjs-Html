@@ -1,0 +1,39 @@
+/* h1{
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+h3{
+    text-align: left;
+}
+
+h1{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+} */
+
+/* img.a{
+    vertical-align: top;
+    vertical-align:text-top;
+} */
+
+p{
+    /* text-decoration:overline underline; */
+    text-decoration-color: red;
+    /* text-decoration-thickness: ; */
+    text-transform: capitalize;
+    /* text-indent: 50px;
+    letter-spacing: 10px;
+    line-height: 5; */
+    /* word-spacing: 20px; */
+    
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-item{
+    width: 50%;
+}

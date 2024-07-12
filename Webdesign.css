@@ -1,0 +1,10 @@
+/* p[title*="paga"]{
+    background: blue;
+    font-size: 20px;
+} */
+
+input[type="text"]{
+    background-color: brown;
+    font-size: 25px;
+    color: black;
+}
